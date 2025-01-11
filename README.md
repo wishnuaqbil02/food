@@ -1,5 +1,5 @@
 ## Aplikasi Pemesan Makanan
-| UTS  |  Pemrograman Mobile 1  
+| UAS  |  Pemrograman Mobile 1  
 |-------|---------
 | NIM   | 312310591
 | Nama  | Wishnu Aqbil Ramadani
