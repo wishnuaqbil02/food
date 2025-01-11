@@ -1,4 +1,4 @@
-## Aplikasi PantauCuan 
+## Aplikasi Pemesan Makanan
 | UTS  |  Pemrograman Mobile 1  
 |-------|---------
 | NIM   | 312310591
